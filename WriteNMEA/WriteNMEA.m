@@ -18,6 +18,7 @@ function [nmea] = WriteNMEA(filename,year,month,day)
 %   Modified by Joonseong Gim, Mar 29, 2017
 %   QZSS Az, El, SNR 추가
 %   Modified by Joonseong Gim, Jan 02, 2018
+%   Modified by Joonseong Gim, June 21, 2018
 
 
 %% test 용 파일 및 파라미터들
